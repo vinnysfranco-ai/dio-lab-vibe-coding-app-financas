@@ -1,69 +1,33 @@
-# 📱 App de Organização de Finanças Pessoais com IA
+# 📊 App de Finanças Pessoais com IA
 
-## 🎯 Visão Geral do Projeto
+Este é o meu projeto do DIO Lab Vibe Coding – App de Finanças Pessoais com IA, onde criei um aplicativo para ajudar no controle financeiro pessoal usando IA.
 
-Este projeto apresenta o conceito de um **Aplicativo de Organização de Finanças Pessoais com Inteligência Artificial**, desenvolvido como parte do desafio da DIO utilizando o método **Vibe Coding**.
+## 🎯 Conceito do App
 
-O foco é demonstrar a capacidade de transformar ideias em um produto estruturado, utilizando IA como apoio desde a concepção até a definição de funcionalidades.
+O app foi criado para ajudar pessoas a:
 
----
+✅ Controlar receitas e despesas  
+✅ Visualizar saldo atual  
+✅ Categorizar gastos automaticamente usando IA  
+✅ Obter sugestões de economia e organização financeira
 
-## 🧠 Prompt Final (PRD) Utilizado com IA
----
+## 🧠 Prompt Final Usado com a IA (PRD)
 
-## 👥 Público-Alvo
+Criar um app de finanças pessoais que permita registrar receitas e despesas, 
+classificar automaticamente categorias de gastos com base no texto do usuário, 
+exibir dashboards simples e permitir sugestões automáticas de economia. 
+Fornecer estrutura em React, Node.js e banco de dados Firebase.
 
-- Pessoas que desejam organizar melhor suas finanças
-- Usuários iniciantes em controle financeiro
-- Jovens adultos e profissionais autônomos
-- Pessoas que buscam simplicidade e orientação inteligente
+## 💡 O Que Eu Aprendi
 
----
+Nesse desafio, aprendi a:
 
-## ⚙️ Funcionalidades Principais
+✔️ Criar prompts mais claros para IA  
+✔️ Estruturar um projeto real com objetivo definido  
+✔️ Pensar o app do ponto de vista do usuário  
+✔️ Organizar um repositório de forma profissional
 
-- Registro de receitas e despesas
-- Classificação automática de gastos por categoria
-- Resumo financeiro mensal
-- Alertas de gastos excessivos
-- Definição de metas financeiras
-- Relatórios simples e visuais
+## 🔗 Link do Projeto
 
----
+https://github.com/vinnysfranco-ai/dio-lab-vibe-coding-app-financas
 
-## 🤖 Uso da Inteligência Artificial
-
-A IA atua como um **assistente financeiro**, sendo responsável por:
-- Identificar padrões de consumo
-- Classificar despesas automaticamente
-- Sugerir melhorias financeiras personalizadas
-- Interagir com o usuário em linguagem natural
-
----
-
-## 🖼️ Interações com Copilot / Lovable
-
-Durante o desenvolvimento do conceito, ferramentas de IA como **Copilot e Lovable** foram utilizadas para:
-- Refinar ideias
-- Estruturar o PRD
-- Pensar na experiência do usuário
-
-*(Espaço reservado para adicionar imagens ou prints das interações)*
-
----
-
-## 📚 Aprendizados e Reflexão
-
-Este desafio reforçou a importância de:
-- Criar prompts claros e objetivos
-- Pensar no produto antes da implementação
-- Utilizar a IA como parceira no processo criativo
-- Estruturar ideias de forma organizada e comunicável
-
-O método Vibe Coding mostrou como é possível desenvolver soluções reais a partir de boas perguntas feitas à IA.
-
----
-
-## 🚀 Considerações Finais
-
-Este projeto simula um cenário real de mercado, destacando não apenas habilidades técnicas, mas também pensamento de produto, comunicação e organização de ideias.
